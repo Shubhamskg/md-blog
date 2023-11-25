@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Code dev blog</title>
+    <link>https://blog.mindfulknowledges.com/categories/</link>
+    <description>Recent content in Categories on Code dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
+    <atom:link href="https://blog.mindfulknowledges.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coding</title>
+      <link>https://blog.mindfulknowledges.com/categories/coding/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>css</title>
+      <link>https://blog.mindfulknowledges.com/categories/css/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>culture</title>
+      <link>https://blog.mindfulknowledges.com/categories/culture/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>general</title>
+      <link>https://blog.mindfulknowledges.com/categories/general/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html</title>
+      <link>https://blog.mindfulknowledges.com/categories/html/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>js</title>
+      <link>https://blog.mindfulknowledges.com/categories/js/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>life</title>
+      <link>https://blog.mindfulknowledges.com/categories/life/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>travel</title>
+      <link>https://blog.mindfulknowledges.com/categories/travel/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>https://blog.mindfulknowledges.com/categories/travel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
